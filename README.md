@@ -1,2 +1,2 @@
-# -fibonacci
+# fibonacci
 Python Fibonacci program 
